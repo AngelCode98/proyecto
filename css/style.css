@@ -36,3 +36,16 @@ h2{
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     transition: transform 0.3s;
 }
+
+.enlace {
+    font-size: 20px;
+    color: #991b36;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.enlace:hover {
+    color: #213d4f;
+    text-decoration: underline;
+}
